@@ -1,8 +1,7 @@
 
 # Linux Server Toolkit
 
-Linux Server Toolkit is a collection of simple Bash scripts
-for basic Linux server administration.
+Linux Server Toolkit is a collection of Bash utilities for Linux server administration.
 
 ## Project Purpose
 
