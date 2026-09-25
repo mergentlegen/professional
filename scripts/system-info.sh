@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "===== System Information ====="
-echo "Hostname: $(hostname)"
+echo "Hostname: $(hostnam)"
 echo "User: $(whoami)"
 echo "Kernel: $(uname -r)"
 echo "Operating System:"
